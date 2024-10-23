@@ -7,7 +7,7 @@ This image will allow you to run any Webservice including a Database within one 
 ### 1. Clone the Git Repository
 
 ```shell
-https://gitlab.com/pschuelpengroup/docker-webserver.git
+https://github.com/pschuelpen/docker-webserver.git
 ```
 
 ### 2. Build the Image
