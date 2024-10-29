@@ -1,5 +1,11 @@
 # Docker Webserver
 
+![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![image](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white)
+![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![image](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![License](https://img.shields.io/badge/license-MIT-blue)
+
 This image will allow you to run any Webservice including a Database within one container so that you are able to Test small applications as if they run on a single Device e.g RaspberryPi. Anyway you can also just run your applications within this container and keep everything nice and clean.
 
 ## How to use
